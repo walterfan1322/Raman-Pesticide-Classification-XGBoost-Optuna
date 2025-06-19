@@ -39,8 +39,7 @@
 建議先建立虛擬環境（`conda` 或 `venv` 均可）。
 
 ```bash
-git clone https://github.com/<yourname>/raman-pesticide-classification.git
-cd raman-pesticide-classification
+git clone https://github.com/walterfan1322/Raman-Pesticide-Classification-XGBoost-Optuna.git
 python -m venv .venv
 source .venv/bin/activate          # Windows： .venv\Scripts\activate
 pip install -r requirements.txt
